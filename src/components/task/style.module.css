@@ -1,0 +1,23 @@
+.task {
+    width: 500px;
+    background-color: #ede9d5;
+    margin: 8px;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    border-radius: 20px;
+    color: #539165;
+    transition: border 100ms ease-in-out;
+    position: relative;
+  }
+  
+  .mycolor {
+    color: #a84448;
+    font-size: 20px;
+    margin-left: 10px;
+  }
+
+  .position{
+    position: absolute;
+    top: 10px;
+  }
